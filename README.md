@@ -1,2 +1,2 @@
 # CALCULATOR
-I made a calculator using html, css and javascript.
+# helps to calculate
